@@ -1,4 +1,4 @@
 # learningGit
 This is my first repo.
 <br>
-Author - Sayan Mondal
+Author - Sayan Mondal (Redeye)
